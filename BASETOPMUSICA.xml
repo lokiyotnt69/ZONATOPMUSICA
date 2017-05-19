@@ -103,7 +103,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> [COLOR gold]  DESPACITO [/COLOR] </title>
+<title> [COLOR skyblue] DESPACITO [/COLOR] </title>
 <urlsolve>https://www.youtube.com/watch?v=kJQP7kiw5Fk&list=RDQMSJ0RGajX9VU</urlsolve>
 <thumbnail>http://flowhot.me/mp3/wp-content/uploads/2017/01/Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.jpg</thumbnail>
 <fanart>http://flowhot.me/mp3/wp-content/uploads/2017/01/Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.jpg</fanart>
@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] REYKON, DEJAME TE LO EXPLICO [/COLOR]</title>
+<title>[COLOR skyblue] REYKON, DEJAME TE LO EXPLICO [/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=y5rvRiLEDOU&index=2&list=RDQMSJ0RGajX9VU</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/8ffDJdcsnc4/mqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/8ffDJdcsnc4/mqdefault.jpg</fanart>
@@ -120,31 +120,31 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] SUBEME LA RADIO [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=9sg-A-eS6Ig</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/wyjXRxLx99E/mqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wyjXRxLx99E/mqdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 
-<item>
-<title>[COLOR gold] [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -159,7 +159,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] MIX REMEMBER 90 [/COLOR]</title>
+<title>[COLOR skyblue] MIX REMEMBER 90 [/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=JYFDLCyBEK8&list=RDQMCPSFWm4X5N0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -168,7 +168,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] MIX REMEMBER 90 [/COLOR]</title>
+<title>[COLOR skyblue] MIX REMEMBER 90 [/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=JYFDLCyBEK8&list=RDQMCPSFWm4X5N0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -184,14 +184,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] SESION FLAMENCA [/COLOR]</title>
+<title>[COLOR skyblue] SESION FLAMENCA [/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=bqrlLbbHIiI</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR gold] Julio Flores - Ni contigo ni sin ti  [/COLOR]</title>
+<title>[COLOR skyblue] Julio Flores - Ni contigo ni sin ti  [/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=8LX7DyDOv4w&list=PL0MOnRSxmKfcI09ZBZiXOkgSwRaDnzOwV</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/wRCyKfBN-qY/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/wRCyKfBN-qY/hqdefault.jpg</fanart>
@@ -199,7 +199,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] Un mísero currante y punto - Esencia[/COLOR]</title>
+<title>[COLOR skyblue] Un mísero currante y punto - Esencia[/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=979QIixzv-k&index=4&list=PL0MOnRSxmKfcI09ZBZiXOkgSwRaDnzOwV</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/7Jsl7za5W7U/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/7Jsl7za5W7U/hqdefault.jpg</fanart>
@@ -208,10 +208,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] SESION RUMBERA[/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=rm024Gg92s0</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR skyblue] Los Rebujitos - Lo que me gusta de ti[/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=kK8JFbnvvpg&index=8&list=PL0MOnRSxmKfcI09ZBZiXOkgSwRaDnzOwV</urlsolve>
+<thumbnail>http://oi57.tinypic.com/mkhco7.jpg</thumbnail>
+<fanart>http://oi57.tinypic.com/mkhco7.jpg</fanart>
 </item>
 
 
@@ -226,7 +226,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] Above & Beyond Live At Ultra Music Festival Miami 2017 [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=0peXTVdhiMM</urlsolve>
+<thumbnail>https://2.bp.blogspot.com/-1vBY4AcVBuQ/VvM5DGICPBI/AAAAAAABWD8/Cmz_8mDTg_k-ii_rMOysImYdsLXRFeTdA/s1600/above1.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-1vBY4AcVBuQ/VvM5DGICPBI/AAAAAAABWD8/Cmz_8mDTg_k-ii_rMOysImYdsLXRFeTdA/s1600/above1.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -235,7 +244,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR skyblue] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -244,7 +269,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -252,7 +277,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -260,32 +285,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR gold] [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR gold] [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -294,7 +294,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] [/COLOR]</title>
+<title>[COLOR skyblue] [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>

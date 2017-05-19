@@ -198,6 +198,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR gold] Un mísero currante y punto - Esencia[/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=979QIixzv-k&index=4&list=PL0MOnRSxmKfcI09ZBZiXOkgSwRaDnzOwV</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/7Jsl7za5W7U/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/7Jsl7za5W7U/hqdefault.jpg</fanart>
+</item>
+
+
 
 <item>
 <title>[COLOR gold] SESION RUMBERA[/COLOR]</title>
@@ -224,13 +232,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-
-<item>
-<title>[COLOR gold] [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>

@@ -119,6 +119,36 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR gold] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR gold] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR gold] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR gold] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
@@ -154,17 +184,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] sesion Flamenca [/COLOR]</title>
+<title>[COLOR gold] SESION FLAMENCA [/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=bqrlLbbHIiI</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR gold] Julio Flores - Ni contigo ni sin ti  [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=8LX7DyDOv4w&list=PL0MOnRSxmKfcI09ZBZiXOkgSwRaDnzOwV</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/wRCyKfBN-qY/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wRCyKfBN-qY/hqdefault.jpg</fanart>
+</item>
 
 
 
 <item>
-<title>[COLOR gold] Sesion Rumbera [/COLOR]</title>
+<title>[COLOR gold] SESION RUMBERA[/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=rm024Gg92s0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -178,12 +214,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR gold] [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 

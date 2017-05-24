@@ -437,9 +437,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+
 <item>
-<title>[COLOR skyblue] [/COLOR]</title>
-<urlsolve></urlsolve>
+<title>[COLOR skyblue] PASTIS & BUENRI- La rebelión de la mákina- CD1 [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=EDC-60QE7oE&feature=youtu.be</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue] PASTIS & BUENRI- La rebelión de la mákina- CD2 [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=pybUkRASZE4&feature=youtu.be</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>

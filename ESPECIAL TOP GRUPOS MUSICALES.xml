@@ -97,11 +97,26 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR red] * [/COLOR][COLOR yellow] ALEJANDRO [/COLOR] [COLOR red] SANZ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=PvV5AhqqEGQ</urlsolve>
+<urlsolve>https://www.youtube.com/watch?v=XaaabMo0OTc</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ANTONIO  [/COLOR] [COLOR red] OROZCO [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=5lZ5jwNIbm4&list=PLeC3KXKbXai5nLfjLi3pVVLIeg58ZaqH5</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] DAVID [/COLOR] [COLOR red] BISBAL [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=AS5DOyyoXJI&list=PL08E81BF8023C4996</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 

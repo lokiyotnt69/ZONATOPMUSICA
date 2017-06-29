@@ -95,9 +95,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] LOS MEJORES EXITOS [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</thumbnail>
-<fanart>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</fanart>
-<externallink>https://www.youtube.com/watch?v=XaaabMo0OTc</externallink>	
+<title>[COLOR red] * [/COLOR][COLOR yellow] ALEJANDRO SANZ[/COLOR] [COLOR red]LOS MEJORES EXITOS [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=PvV5AhqqEGQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>

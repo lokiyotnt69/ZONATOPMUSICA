@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]**ESPECIAL UFC**[/COLOR] </title>
+<title>[COLOR lime]**ESPECIAL TOP GRUPOS MUSICALES**[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -95,9 +95,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] ALEJANDRO [/COLOR] [COLOR red] SANZ [/COLOR]*Amiga mia</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ALEJANDRO [/COLOR] [COLOR red] SANZ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</thumbnail>
 <fanart>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</fanart>
-<externallink>https://www.youtube.com/watch?v=44Qh0p9xE6o</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/alejandrosanz.xml</externallink>	
 </item>
+
+

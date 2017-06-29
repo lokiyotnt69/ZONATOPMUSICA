@@ -150,31 +150,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] AUTE [/COLOR] [COLOR red]  [/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]</title>
-<urlsolve>h</urlsolve>
+<title>[COLOR red] * [/COLOR][COLOR yellow] RICARDO [/COLOR] [COLOR red] ARJONA [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=-DVlPECiNGY</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]</title>
-<urlsolve></urlsolve>
+<title>[COLOR red] * [/COLOR][COLOR yellow] AMARAL [/COLOR] </title>
+<urlsolve>https://www.youtube.com/watch?v=YEURB7rQ3g0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -182,8 +173,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]</title>
-<urlsolve></urlsolve>
+<title>[COLOR red] * [/COLOR][COLOR yellow] BON [/COLOR] [COLOR red] JOVI [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=0Dr1GLTzLAk</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] AEROSMITH [/COLOR] </title>
+<urlsolve>https://www.youtube.com/watch?v=CPuRS0JBrF0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>

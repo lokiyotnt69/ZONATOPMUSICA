@@ -3,37 +3,48 @@
 
 
 
-<item>
-<title>[COLOR orange]*JHG [/COLOR][COLOR orange] UFC [/COLOR]</title>
+		
+		
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LOS40PRINCIPALES [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
-<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
-</item>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MIS-AMIGAS/master/LOS40.xml</externallink>	
+</item> 
  
 
-<item>
-<title>[COLOR yellow]*ZUMBA  [/COLOR][COLOR gold] Y [/COLOR][COLOR yellow] FITNESS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
-<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
-</item>
-
- 
-<item>
-<title>[COLOR blue]*LOS 40 PRINCIPALES [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://musicak.com/wp-content/2011/09/la_lista_de_los_40_principales.jpg</thumbnail>
-<fanart>https://musicak.com/wp-content/2011/09/la_lista_de_los_40_principales.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Zona40principales/master/top40principales.xml</externallink>	
-</item>
-
 
 <item>
-<title>[COLOR purple]*TOP  [/COLOR][COLOR purple] MÚSICA (Nuevo)[/COLOR]</title>
+<title>[COLOR purple]*TOP  [/COLOR][COLOR purple] MÚSICA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASETOPMUSICA.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] BOXEO [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/NOqgBV2.jpg</thumbnail>
+<fanart>https://i.imgur.com/NOqgBV2.jpg</fanart>
+<externallink></externallink>	
+</item>
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] WWE [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/mytkX8o.jpg</thumbnail>
+<fanart>https://i.imgur.com/mytkX8o.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/WWE.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] UFC [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/IGZHC5Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/IGZHC5Y.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
 </item> 
